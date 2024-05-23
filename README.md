@@ -1,6 +1,6 @@
-PyBullet is a great python library for physics and rigid body simulation.
+# PyBullet is a python library for physics and rigid body simulation.
 
-To use PyBullet without having to download Visual Studio, etc.
+## This repository allows you to use PyBullet without having to download Visual Studio, etc. To do so:
 
 1. Download pybullet.YOUR_PYTHON_VERSION.pyd.
 2. Move this .pyd file into your python environment's "site-packages" directory. 
